@@ -1,0 +1,2 @@
+A=(3,2,1)
+A[2]=1 #    ERROR MUTABILTY RELATED

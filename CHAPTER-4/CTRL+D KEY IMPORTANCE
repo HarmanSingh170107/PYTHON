@@ -1,0 +1,7 @@
+A1=eval(input("enter a list consiting of MARKS OF ANY 6 OF YOUR STUDENTS"))
+A1.sort()
+A1=eval(input("enter a list consiting of MARKS OF ANY 6 OF YOUR STUDENTS"))
+A1.sort()
+A2=eval(input("enter a list consiting of MARKS OF ANY 6 OF YOUR STUDENTS"))
+A2.sort()
+print()   #REMEMBER CTRL+D AND THEN CTRL+H IT CAN CHANGE REOCCURENCE OF REQUIRED SAME VARIABLES LIKE 2 A1
