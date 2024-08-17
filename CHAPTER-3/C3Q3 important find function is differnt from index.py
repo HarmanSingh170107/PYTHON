@@ -1,2 +1,2 @@
-x='The knives were out and she was  sharpening hers.'
-print(x.find('  '))# **********************Strings are immutable*******************
+x='The knives were out and she were  sharpening hers.'
+print(x.find('were '))# **********************Strings are immutable*******************
