@@ -1,6 +1,6 @@
 # Python 3.10 introduced the match statement, which is similar to the switch statement
 # found in other programming languages.
-def http_status(status):
+def http_status(status): #can also do below with if-else loop
     match status:
         case 200:
             return "OK"
